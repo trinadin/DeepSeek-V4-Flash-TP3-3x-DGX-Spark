@@ -825,7 +825,7 @@ Full detail per rung in `docs/FIXLOG.md`. Tagged **[S]** speed,
   recipe's battery-before-trust stance on spec decode.
 - **MiaAI-Lab** — DS4-on-Spark bug documentation, the original 2-Spark
   1M-context recipe line, and the 4-box SGLang reference numbers.
-- A companion [Vision-Exp TP=3 recipe](https://github.com/PrblyElect/DeepSeek-V4-Flash-Vision-TP3-3x-DGX-Spark)
+- A companion [Vision-Exp TP=3 recipe](https://github.com/trinadin/DeepSeek-V4-Flash-Vision-TP3-3x-DGX-Spark)
   (the same account) — native vision at TP=3, the SP-prefill port, and
   the scheduler fairness patches (decode deferral cadence + interactive
   admission) live there.
